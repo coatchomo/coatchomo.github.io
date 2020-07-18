@@ -1,2 +1,2 @@
 # coatchomo.github.io
-COAT Chomo
+COAT Chomo 网 络 浏 览 器
